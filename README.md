@@ -13,6 +13,7 @@ in this vein.
   scripting language that uses Rust's lifetime system rather than garbage collection.
 - [Ketos][ketos]: A Lisp-like scripting and extension language. Compiles to bytecode
   which is then interpreted.
+- [Fractalide][fractalide]: A flow-based programming coordination language.
 
 ## Unmaintained Languages
 
@@ -36,4 +37,5 @@ in this vein.
 [rust-lisp]: https://github.com/swgillespie/rust-lisp
 [lisp.rs]: https://github.com/jsdf/lisp.rs
 [radicle]: https://github.com/nham/radicle
+[fractalide]: https://github.com/fractalide/fractalide 
 
